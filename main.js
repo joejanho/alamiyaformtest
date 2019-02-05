@@ -294,7 +294,7 @@ var AppComponent = /** @class */ (function () {
                 })
             };
             console.log(ParseHeaders);
-            var URL_1 = 'https://cors-anywhere.herokuapp.com/https://ipaytotal.solutions/api/transaction';
+            var URL_1 = 'https://ipaytotal.solutions/api/transaction';
             this.showspinner = true;
             var adminEmailMessage_1 = 'Name:' + test_1.first_name + ' ' + test_1.last_name + '<br>' +
                 'phone:' + test_1.phone_no + '<br>' +
